@@ -14,7 +14,7 @@
  
 <div> 
   
-  <a href="https://www.linkedin.com/in/pedro-goulart09/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href="https://www.linkedin.com/in/pedro-goulart09/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <p align="center">Volte Sempre !!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroGoulart09/count.svg" /></p>
